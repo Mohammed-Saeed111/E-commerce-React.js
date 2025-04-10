@@ -32,3 +32,22 @@ App.js │ ├── index.js │ └── style.css ├── package.json └
 
 
 
+## 🚀 Getting Started
+
+To run the project locally:
+
+### 1. Clone the repository:
+
+```bash
+git clone https://github.com/Mohammed-Saeed111/E-commerce-React.js.git
+cd E-commerce-React.js
+
+2. Install dependencies:
+npm install
+
+3. Run the development server:
+npm start
+
+
+
+
