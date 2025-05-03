@@ -1,6 +1,6 @@
 # 🛒 E-commerce React.js
 
-A simple and responsive **E-commerce web application** built using **React.js**. This project allows users to browse products, add them to a shopping cart, and view the total price.
+**E-commerce web application** built using **React.js**. This project allows users to browse products, add them to a shopping cart, and view the total price.
 
 ## 🌐 Live Demo
 
